@@ -1,0 +1,9 @@
+In this Project I have taken dataset of Myntra Fashion Product Analysis
+
+Dataset can be found here :- https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog
+
+I have First cleaned the data and then analysed the data using python libraries(numpy and pandas).
+
+After the analysis I did data visualisation using python libraries matplotlib and seaborn.
+
+And at last I have Created a Dashboard using PowerBI
