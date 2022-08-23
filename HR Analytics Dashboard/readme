@@ -1,0 +1,13 @@
+Hello All !
+
+Recently I have worked on HR analytics dashboard project . In this project I performed data cleaning , exploratory data analysis and created a dashboard using powerBI
+and found out useful insights 
+
+About Project :-Every company has a HR Department which deals with various recruitment , Placement and Promotions related work of the company. Here in this project
+we have a huge dataset in from which we are going to extract insights which can be useful for hr department and higher authorities to work on and to gain knowledge 
+about the employees and get help to give promotions. We have extracted many different insights which we will observe further.
+
+About Dataset : The dataset is about the employee details data of a company. data consist of various information related to employee of hr, sales and 
+research & development department. The dashboard made is for the HR team and higher management.
+It contain information like age, gender, job role, marital status, monthly income, promotion detail and many other related details.
+
